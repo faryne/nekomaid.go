@@ -1,0 +1,4 @@
+package nekomaid
+
+func main() {
+}
